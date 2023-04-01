@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(images/space.jpg);
+    background-size: cover;
+}
+
+.box {
+    width: 400px;
+    background-color: rgb(10, 71, 146);
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 7%;
+    border-radius: 30px;
+    color: white;
+    font-family: monospace;
+    font-size: large;
+}
+
+img {
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+li a {
+    color: white;
+    font-size: 32px;
+}
+
+li a:hover {
+    color: black
+}
