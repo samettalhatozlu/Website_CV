@@ -1,2 +1,4 @@
 # Website_Project
- website
+ HTML ve CSS kullanarak kişisel bir website oluşturdum: https://samet-cv.netlify.app/
+ 
+ 
